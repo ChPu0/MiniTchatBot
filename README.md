@@ -1,4 +1,4 @@
 # MiniTchatBot
-Mini Tchat Bot looking for word Javascript
+Mini Tchat Bot looking for my name
 
-Text area with "regex" JAVASCRIPT and specific reply
+Text area with "regex" Charles and specific reply
